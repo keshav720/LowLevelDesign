@@ -1,4 +1,4 @@
-![Cricbuzz_LLD](https://github.com/user-attachments/assets/bf0d3087-b295-4d00-b3a2-81d804256fcb)**CRICBUZZ LLD** 
+**CRICBUZZ LLD** 
 
 **Requirement Gathering**
 
