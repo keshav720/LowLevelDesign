@@ -1,4 +1,4 @@
-**CRICBUZZ LLD** 
+<img width="1070" alt="Screenshot 2024-11-30 at 1 32 45 PM" src="https://github.com/user-attachments/assets/f449ef65-f2ae-40d5-9c2e-21b5714d0a74">**CRICBUZZ LLD** 
 
 **Requirement Gathering**
 
