@@ -1,4 +1,4 @@
-**CRICBUZZ LLD** 
+![Cricbuzz_LLD](https://github.com/user-attachments/assets/bf0d3087-b295-4d00-b3a2-81d804256fcb)**CRICBUZZ LLD** 
 
 **Requirement Gathering**
 
@@ -35,6 +35,10 @@ Record bowling statistics (overs bowled, runs conceded, wickets taken).
 
 
 **UML Diagram for Cricbuzz Low-Level Design**
+
+
+![Uploading Screenshot 2024-11-30 at 1.32.45 PM.png…]()
+
 
 
 **Classes:**
